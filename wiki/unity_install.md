@@ -1,36 +1,40 @@
-# Unity Installation on Linux
+# Инсталација Unity окружења на Ликунксу
 
-## Install Unity Hub
-Go to [Unity linux install](https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux) official web page and follow the install instructions for Linux.
+## Инсталирање Unity Hub
+Unity Hub је апликација која помаже у управљању различитим верзијама Јунити окружења на рачунару. Разлог зашто ова апликација постоји је што је веома често да на једном рачунару имамо по неколико верзија Јунитија.
 
-## Install Unity Editor
-Unity Hub is an application which manages (install / uninstall) a different Unity versions. The reason why it exists is because it's not uncommon that you have multiple Unity versions installed at the same time.
+Јунити верзије се објављују релативно често. Овде увек можемо да видимо које верзије имамо инсталиране, да добавимо нову верзију, уклонимо стару и проверимо који пројекти (игре) користе које верзије едитора.
 
-Open Unity Hub  
+Инструкције за инсталацију Unity Hub-а су на овом линку: [Unity linux install](https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux)
+
+
+## Инсталирање Unity едитора
+
+Отвори Јунити Хаб  
 <img src="img/install_linux/unity_hub_sign_in.png" width="100%" />
 
-Click on:
-1. "Sign in" if you already have an account.
-2. "Create account" if you need to create a new account.
+Имамо две могућности:
+1. "Sign in" ако већ имамо Јунити налог, онда можемо одмах да се пријавимо.
+2. "Create account" ако немамо Јунити налог, онда овде можемо да га креирамо.
 
-If tool tip window shows up. Just click "Got it".  
+Ако се прозор за помоћ појави, само кликни "Got it".  
 <img src="img/install_linux/unity_hub_tooltip.png" width="100%" />
 
-Skip suggested installation.  
+Прескaчемо (Skip) предложену инсталацију едитора. За овај туторијал хоћемо сами да одаберемо верзију за коју је туторијал прављен.   
 <img src="img/install_linux/unity_hub_skip_suggested_install.png" width="100%" />
 
-On Installs tab click on Install Editor.  
+Одабирамо Installs таб и кликнемо Install Editor.  
 <img src="img/install_linux/unity_hub_install_editor.png" width="100%" />
 
-We want 2022.3.1f1 LTS version. Click Install button for this version.  
+Потребна нам је 2022.3.1f1 LTS верзија. Притисни Install дугме за ову верзију.  
 <img src="img/install_linux/unity_hub_select_install_version.png" width="100%" />
 
-Now we need to select platforms (iPhone, Android, Windows, ...) for which we want to develop our game. This can be changed latter so for now we will only select: Linux Build Support. Then we click Install to start the installation.  
+Овде селектујемо платформе (iPhone, Android, Windows, ...) за које желимо да развијамо видео игре. Ово је могуће променити касније па ћемо сада додати само Линукс јер је то платформа на којој развијамо игру. Затим притиснемо Install да би стартовали инсталацију.  
 <img src="img/install_linux/unity_hub_install_select_modules.png" width="100%" />
 
-Installation is now in progress. Depending on internet connection this might take a while.  
+Инсталација је сада у току. У зависности од брзине интернета, инсталација може дуго да потраје.  
 <img src="img/install_linux/unity_hub_install_progress.png" width="100%" />
 
-Here is how Unity Hub will look like after completed installation. We can close Downloads pop-up window.  
+Ево како прозор изгледа после успешне инсталације. Кликнемо Х да затворимо Download прозор.
 <img src="img/install_linux/unity_hub_download_completed.png" width="100%" />
 
