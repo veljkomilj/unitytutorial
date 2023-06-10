@@ -6,7 +6,11 @@
 Кликнути New Project.  
 <img src="img/create_2d_game/unity_hub_create_new_project.png" width="100%" />
 
-Изабрати 2D Core тип пројекта и притиснути Create.  
+На овој страни треба урадити више ствари:
+1. Изабрати 2D Core тип пројекта.
+2. Унети име пројеката.
+3. Изабрати локацију за пројекат
+4. Кликнути Create.  
 <img src="img/create_2d_game/unity_hub_create_2d_core_project.png" width="100%" />
 
 Unity Hub ће аутоматски отворити Unity Editor са новим пројектом.  
